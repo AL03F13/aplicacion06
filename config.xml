@@ -29,7 +29,8 @@
    <!-- Core plugins -->  
 
    <gap:plugin name="org.apache.cordova.splashscreen" version="0.3.4" />  
-   <gap:plugin name="org.apache.cordova.vibration" />  
+   <gap:plugin name="org.apache.cordova.vibration" />
+   <gap:plugin name="org.apache.cordova.dialogs"/>  
 
    <!-- Third party plugins -->  
    
